@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+rich
+PIL
+pillow
+pywhatkit
