@@ -37,7 +37,7 @@ Install pip requirements manually:
 Follow instructions!
 
 # Help
-If you are facing any issue with BRUTEGEN! Report it at https://github.com/paradox-kyuu/AsciiArtGen/issues!
+If you are facing any issue with AsciiArtGen! Report it at https://github.com/paradox-kyuu/AsciiArtGen/issues!
 
 
 # CREATOR
